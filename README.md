@@ -1,0 +1,2 @@
+# slawBot
+POE::Component::IRC
